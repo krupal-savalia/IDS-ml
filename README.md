@@ -12,10 +12,9 @@ This project implements a machine learning-based IDS to detect malicious activit
 ```
 ids-ml/
 ├── data/                 # Contains NSL-KDD dataset
-├── model/                # Trained model stored here
 ├── train_model.py        # For training the IDS model
 ├── ids.py                # Predict new samples
-├── requirements.txt
+├── ids_model.pkl
 └── README.md
 ```
 
